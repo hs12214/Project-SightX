@@ -122,8 +122,6 @@ SightX/
 
 ## Project Demo
 
-## Project Demo
-
 [Demo Video](demo/SightX%20Demo%20Video%202.mp4)
 
 ---
