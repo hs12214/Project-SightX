@@ -153,7 +153,7 @@ SightX/
 > **⚠️ Disclaimer:** This repository hosts the deployed application for demo purposes. Please note that any errors occurring due to incorrect user implementation or environmental misconfigurations must not be inferred as a development error.
 
 <div align="center">
-  <i>Built to make the world a safer place.</i>
+  <code>Built to make the world a safer place.</code>
 </div>
 
 
