@@ -120,6 +120,21 @@ SightX/
 
 ---
 
+## Project Demo
+
+[Demo Video](demo/SightX Demo Video 2.mp4)
+
+---
+
+## Contributors
+
+| Name | Role | Connect |
+| :--- | :--- | :--- |
+| **Harshit Sharma** | Project Lead & Frontend Developer | [LinkedIn](https://www.linkedin.com/in/harshit-sharma-4a167237b/) |
+| **Yash Raj** | Crime Detecion Engine Architect | [LinkedIn](https://www.linkedin.com/in/yash-raj-299802383/) |
+
+---
+
 ## Project Visuals
 
 <p align="center">
@@ -130,15 +145,6 @@ SightX/
 <p align="center">
   <img src="docs/demo.jpeg" width="300" alt="Demo Interface"/>
 </p>
-
----
-
-## Contributors
-
-| Name | Role | Connect |
-| :--- | :--- | :--- |
-| **Harshit Sharma** | Project Lead & Frontend | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/harshit-sharma-4a167237b/) |
-| **Yash Raj** | Backend Developer & ML | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yash-raj-299802383/) |
 
 ---
 
