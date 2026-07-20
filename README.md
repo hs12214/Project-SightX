@@ -122,7 +122,7 @@ SightX/
 
 ## Project Demo
 
-[Demo Video](demo/SightX Demo Video 2.mp4)
+[!Demo Video](demo/SightX Demo Video 2.mp4)
 
 ---
 
